@@ -1,0 +1,18 @@
+CCSDS_INSPECTION: Running AS6...
+=== PERFORMANCE MEASUREMENT START ===
+Operation: ccsds_as6
+Timestamp: 97857741 ms
+=====================================
+===== PERFORMANCE MEASUREMENT RESULTS =====
+Operation: ccsds_as6
+Timing: Start: 97857741 ms, End: 97857743 ms, Duration: 2 ms
+CPU Usage: 100.0%
+==========================================
+Performance: ccsds_as6 completed in 2 ms
+===== PERFORMANCE TREND =====
+Period: 10 ms, Buffer Size: 2, Overflow: 0
+Start: 97857741 ms, End: 97857743 ms
+Total Samples: 2
+CPU(process): avg=100.0%, min=100.0%, max=100.0%, valid=1
+=============================
+CCSDS_INSPECTION: AS6 complete

@@ -1,0 +1,17 @@
+Running HK_TX for 3600 seconds...
+=== PERFORMANCE START ===
+Operation: hk_tx
+Task: CONSOLE
+Start Time: 25432022 ms
+Start Temp: 31.5 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: hk_tx
+Task: CONSOLE
+Timing: start=25432022 ms, end=29032032 ms, duration=3600010 ms
+CPU(CONSOLE): avg=3.5%, min=0.6%, max=100.0%
+CPU samples: 360001 (fixed 10 ms)
+Temp MCU: start 31.5 C, end 30.9 C, delta +0.6 C
+==============================
+HK_TX done: runs=327150, errors=0, duration=3600 s, delay=10 ms

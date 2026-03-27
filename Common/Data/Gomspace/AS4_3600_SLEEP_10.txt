@@ -1,0 +1,17 @@
+Running AS4 for 3600 seconds...
+=== PERFORMANCE START ===
+Operation: ccsds_as4
+Task: CONSOLE
+Start Time: 58263463 ms
+Start Temp: 32.9 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as4
+Task: CONSOLE
+Timing: start=58263463 ms, end=61863473 ms, duration=3600010 ms
+CPU(CONSOLE): avg=0.9%, min=0.7%, max=100.0%
+CPU samples: 360001 (fixed 10 ms)
+Temp MCU: start 32.9 C, end 32.8 C, delta +0.1 C
+==============================
+AS4 run count: 360000 (duration=3600 s, delay=10 ms)

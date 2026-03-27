@@ -1,0 +1,17 @@
+Running AS5...
+=== PERFORMANCE START ===
+Operation: ccsds_as5
+Task: CONSOLE
+Start Time: 531042 ms
+Start Temp: 31.5 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as5
+Task: CONSOLE
+Timing: start=531042 ms, end=631153 ms, duration=100111 ms
+CPU(CONSOLE): avg=3.3%, min=2.5%, max=100.0%
+CPU samples: 10011 (fixed 10 ms)
+Temp MCU: start 31.5 C, end 31.4 C, delta +0.1 C
+==============================
+AS5 complete

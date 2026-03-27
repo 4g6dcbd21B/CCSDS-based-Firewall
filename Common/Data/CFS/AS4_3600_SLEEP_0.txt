@@ -1,0 +1,18 @@
+CCSDS_INSPECTION: Running AS4 for 3600 seconds...
+=== PERFORMANCE MEASUREMENT START ===
+Operation: ccsds_as4
+Timestamp: 207200060 ms
+=====================================
+===== PERFORMANCE MEASUREMENT RESULTS =====
+Operation: ccsds_as4
+Timing: Start: 207200060 ms, End: 210800060 ms, Duration: 3600000 ms
+CPU Usage: 99.2%
+==========================================
+Performance: ccsds_as4 completed in 3600000 ms (iterations: 799158322)
+===== PERFORMANCE TREND =====
+Period: 10 ms, Buffer Size: 2048, Overflow: 1
+Start: 207200060 ms, End: 210800060 ms
+Total Samples: 360000
+CPU(process): avg=99.2%, min=92.0%, max=100.0%, valid=359999
+=============================
+CCSDS_INSPECTION: AS4 complete

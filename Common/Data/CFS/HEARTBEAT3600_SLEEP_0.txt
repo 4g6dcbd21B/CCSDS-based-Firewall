@@ -1,0 +1,18 @@
+CCSDS_INSPECTION: Running HEARTBEAT for 3600 seconds...
+=== PERFORMANCE MEASUREMENT START ===
+Operation: sbn_heartbeat_pack_only
+Timestamp: 200000000 ms
+=====================================
+===== PERFORMANCE MEASUREMENT RESULTS =====
+Operation: sbn_heartbeat_pack_only
+Timing: Start: 200000000 ms, End: 203600000 ms, Duration: 3600000 ms
+CPU Usage: 99.5%
+==========================================
+Performance: sbn_heartbeat_pack_only completed in 3600000 ms (iterations: 1990992323)
+===== PERFORMANCE TREND =====
+Period: 10 ms, Buffer Size: 2048, Overflow: 1
+Start: 200000000 ms, End: 203600000 ms
+Total Samples: 360000
+CPU(process): avg=99.5%, min=93.2%, max=100.0%, valid=359999
+=============================
+CCSDS_INSPECTION: HEARTBEAT complete

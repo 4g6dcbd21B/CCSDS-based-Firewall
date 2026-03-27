@@ -1,0 +1,17 @@
+Running AS1 for 3600 seconds...
+=== PERFORMANCE START ===
+Operation: ccsds_as1
+Task: CONSOLE
+Start Time: 662926 ms
+Start Temp: 33.1 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as1
+Task: CONSOLE
+Timing: start=662926 ms, end=4262927 ms, duration=3600001 ms
+CPU(CONSOLE): avg=98.6%, min=79.4%, max=100.0%
+CPU samples: 360000 (fixed 10 ms)
+Temp MCU: start 33.1 C, end 33.0 C, delta +0.1 C
+==============================
+AS1 run count: 59164860 (duration=3600 s, delay=0 ms)

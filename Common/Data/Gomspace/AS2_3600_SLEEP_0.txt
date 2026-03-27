@@ -1,0 +1,17 @@
+Running AS2 for 3600 seconds...
+=== PERFORMANCE START ===
+Operation: ccsds_as2
+Task: CONSOLE
+Start Time: 4262951 ms
+Start Temp: 33.0 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as2
+Task: CONSOLE
+Timing: start=4262951 ms, end=7862961 ms, duration=3600010 ms
+CPU(CONSOLE): avg=98.6%, min=84.0%, max=100.0%
+CPU samples: 360001 (fixed 10 ms)
+Temp MCU: start 33.0 C, end 33.3 C, delta +0.3 C
+==============================
+AS2 run count: 76704758 (duration=3600 s, delay=0 ms)

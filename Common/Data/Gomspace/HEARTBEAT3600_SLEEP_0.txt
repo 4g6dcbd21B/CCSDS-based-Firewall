@@ -1,0 +1,17 @@
+Running HB_NOREPLY for 3600 seconds...
+=== PERFORMANCE START ===
+Operation: hb_noreply
+Task: CONSOLE
+Start Time: 7431858 ms
+Start Temp: 32.7 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: hb_noreply
+Task: CONSOLE
+Timing: start=7431858 ms, end=11031859 ms, duration=3600001 ms
+CPU(CONSOLE): avg=31.5%, min=22.0%, max=100.0%
+CPU samples: 360000 (fixed 10 ms)
+Temp MCU: start 32.7 C, end 31.9 C, delta +0.8 C
+==============================
+HB_NOREPLY done: runs=3761958, errors=0, duration=3600 s, delay=0 ms

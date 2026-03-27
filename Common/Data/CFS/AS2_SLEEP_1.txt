@@ -1,0 +1,18 @@
+CCSDS_INSPECTION: Running AS2...
+=== PERFORMANCE MEASUREMENT START ===
+Operation: ccsds_as2
+Timestamp: 97960485 ms
+=====================================
+===== PERFORMANCE MEASUREMENT RESULTS =====
+Operation: ccsds_as2
+Timing: Start: 97960485 ms, End: 98062888 ms, Duration: 102403 ms
+CPU Usage: 4.6%
+==========================================
+Performance: ccsds_as2 completed in 102403 ms
+===== PERFORMANCE TREND =====
+Period: 10 ms, Buffer Size: 2048, Overflow: 1
+Start: 97960485 ms, End: 98062888 ms
+Total Samples: 10240
+CPU(process): avg=4.5%, min=0.9%, max=100.0%, valid=10239
+=============================
+CCSDS_INSPECTION: AS2 complete

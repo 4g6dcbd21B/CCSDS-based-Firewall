@@ -1,0 +1,18 @@
+CCSDS_INSPECTION: Running HK...
+=== PERFORMANCE MEASUREMENT START ===
+Operation: cfe_es_housekeeping_cmd
+Timestamp: 97354818 ms
+=====================================
+===== PERFORMANCE MEASUREMENT RESULTS =====
+Operation: cfe_es_housekeeping_cmd
+Timing: Start: 97354818 ms, End: 97458282 ms, Duration: 103464 ms
+CPU Usage: 7.4%
+==========================================
+Performance: cfe_es_housekeeping_cmd completed in 103464 ms
+===== PERFORMANCE TREND =====
+Period: 10 ms, Buffer Size: 2048, Overflow: 1
+Start: 97354818 ms, End: 97458282 ms
+Total Samples: 10337
+CPU(process): avg=7.4%, min=0.1%, max=28.7%, valid=10336
+=============================
+CCSDS_INSPECTION: HK complete

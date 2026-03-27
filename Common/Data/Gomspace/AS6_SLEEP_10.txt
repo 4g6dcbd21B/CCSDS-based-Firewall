@@ -1,0 +1,17 @@
+Running AS6...
+=== PERFORMANCE START ===
+Operation: ccsds_as6
+Task: CONSOLE
+Start Time: 5043567 ms
+Start Temp: 30.7 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as6
+Task: CONSOLE
+Timing: start=5043567 ms, end=6043578 ms, duration=1000011 ms
+CPU(CONSOLE): avg=0.4%, min=0.0%, max=100.0%
+CPU samples: 100001 (fixed 10 ms)
+Temp MCU: start 30.7 C, end 30.6 C, delta +0.1 C
+==============================
+AS6 complete

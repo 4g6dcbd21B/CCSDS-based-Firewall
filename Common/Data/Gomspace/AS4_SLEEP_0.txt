@@ -1,0 +1,17 @@
+Running AS4...
+=== PERFORMANCE START ===
+Operation: ccsds_as4
+Task: CONSOLE
+Start Time: 23257 ms
+Start Temp: 32.8 C
+CPU sampling: fixed 10 ms thread
+=========================
+===== PERFORMANCE RESULTS =====
+Operation: ccsds_as4
+Task: CONSOLE
+Timing: start=23257 ms, end=28508 ms, duration=5251 ms
+CPU(CONSOLE): avg=98.5%, min=78.8%, max=100.0%
+CPU samples: 525 (fixed 10 ms)
+Temp MCU: start 32.8 C, end 32.8 C, delta +0.0 C
+==============================
+AS4 complete
